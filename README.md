@@ -1,11 +1,15 @@
 # The Sun Trip
 **Departure** mid june
 
+Auguste = :hear_no_evil:
+Camille = :smirk_cat:
+
 ## Urgent TO DO's
 
-1. Order frame
+1. Order frame :hear_no_evil:
 2. Make a technical drawing of frame
-3. Do research on aerodynamic drag
+3. Do research on aerodynamic drag -- :smirk_cat:
+4. Read regulations in "Suntrip" folder :hear_no_evil: :smirk_cat:
 
 ## TO DO's
 
@@ -15,4 +19,4 @@
 
 2. Comparison of different solar panels.
 
-   Regulations: max. 550 Wp and 3.05 m<sub>2</sub> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
+   Regulations: max. 550 Wp and 3.05 m<sup>2</sup> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
