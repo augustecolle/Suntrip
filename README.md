@@ -6,10 +6,10 @@ Camille = :smirk_cat:
 
 ## Urgent TO DO's
 
-1. Order frame :hear_no_evil:
+1. Order frame -- :hear_no_evil:
 2. Make a technical drawing of frame
 3. Do research on aerodynamic drag -- :smirk_cat:
-4. Read regulations in "Suntrip" folder :hear_no_evil: :smirk_cat:
+4. Read regulations in "Suntrip" folder -- :hear_no_evil: :smirk_cat:
 
 ## TO DO's
 
