@@ -4,6 +4,7 @@
 Auguste = :hear_no_evil:
 Camille = :smirk_cat:
 
+
 ## Urgent TO DO's
 
 1. Order frame -- :hear_no_evil:
@@ -20,3 +21,19 @@ Camille = :smirk_cat:
 2. Comparison of different solar panels.
 
    Regulations: max. 550 Wp and 3.05 m<sup>2</sup> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
+
+3. Passports: Each participant must hold before January 1st, 2018 a passport whose validity shall extend at least until February 1st, 2019.
+ 
+4. Medical -- **before April 15th 2017** -- :hear_no_evil: :smirk_cat:
+
+   - Obtain updated medical certificate in French or English confirming fitness for practice of endurance sports from a physician of their choice.
+
+   - Signed medical record in annex of Adventure Regulations by our physician.
+
+   - Vaccinations for travel in countries we will cross
+
+5. Insurance (p23 of the Adventure Regulations)
+
+6. Technical logbook (more info in early 2018).
+
+
