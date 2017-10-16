@@ -11,9 +11,8 @@
 
 1. Compare different batteries on energy density (Wh/kg). Suntrip maximum 1100 Wh, 48 V.
 
-<<<<<<< HEAD
-  Nominal voltage as defined in datasheet, check if we can gain some capacity by choosing for the batteries with the lowest "nominal" voltage (a very underdefined term).
+   Nominal voltage as defined in datasheet, check if we can gain some capacity by choosing for the batteries with the lowest "nominal" voltage (a very underdefined term).
 
 2. Comparison of different solar panels.
 
-  Regulations: max. 550 Wp and 3.05 m<sub>2</sub> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
+   Regulations: max. 550 Wp and 3.05 m<sub>2</sub> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
