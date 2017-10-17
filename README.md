@@ -1,9 +1,12 @@
 # The Sun Trip
 **Departure** mid june
+
 **Deadline bike** february (preliminary inspection three months before departure, see Technical Regulations)
 
 Auguste = :hear_no_evil:
 Camille = :smirk_cat:
+Baptist = :pig2:
+Rien    = :car:
 
 
 ## Urgent TO DO's
