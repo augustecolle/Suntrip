@@ -1,5 +1,9 @@
 # Route
 
+## TO DO:
+
+1. Check the raw_route manually for forbidden border crossings, check on paved roads and check if all roads are doable with a bicycle.
+
 ## Optimization
 
 Least relief, most sun, shortest distance, least borders to cross?

@@ -40,4 +40,6 @@ Rien    = :car:
 
 6. Technical logbook (more info in early 2018).
 
+7. Mapping an ideal route :hear_no_evil:
+
 
