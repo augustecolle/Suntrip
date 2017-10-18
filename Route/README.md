@@ -10,7 +10,7 @@ Least relief, most sun, shortest distance, least borders to cross?
 
 I converted the track to .kml to view in Google Earth and Google Maps.
 
-![track1](https://raw.githubusercontent.com/augustecolle/Suntrip/tree/master/Route/images/route1.jpg)
+![track1](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Route/images/route1.jpg)
 
 Problem: check the route manually for bad things as crossing the border with Belarus, manual rerouting is needed. Also some paved roads are highways, for example:
 
