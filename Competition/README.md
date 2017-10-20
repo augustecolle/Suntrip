@@ -17,7 +17,7 @@ Michel Bamps
 
 - [forum post](http://thesuntrip.forumactif.org/t417-traction-animale-propulsion-solaire)
 - bike specs.
-    - [raptobike mid-racer] (http://webshop.raptobike.nl/bikes/mid-racer.html)
+    - [raptobike mid-racer](http://webshop.raptobike.nl/bikes/mid-racer.html)
     - [FG40 Cystalite motor](http://www.crystalyte.com/The%20G%20motor%20series.htm)
 
 Bernard Cauquil
