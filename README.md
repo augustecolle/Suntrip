@@ -24,7 +24,7 @@ Rien    = :car:
 
 2. Comparison of different solar panels.
 
-   Regulations: max. 550 Wp and 3.05 m<sup>2</sup> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
+   Tandem regulations: max. 550 Wp and 3.05 m<sup>2</sup> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
 
 3. Passports: Each participant must hold before January 1st, 2018 a passport whose validity shall extend at least until February 1st, 2019.
  
