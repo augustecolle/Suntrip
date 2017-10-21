@@ -23,7 +23,14 @@ Michel Bamps
 Bernard Cauquil
 ===============
 
-- [youtube filmtje](https://www.youtube.com/watch?v=NAL1kyalmh8), trike w. fat tires, solar panel roof
+- [youtube filmtje](https://www.youtube.com/watch?v=NAL1kyalmh8), trike w. fat tires, solar panel roof and he talks about a Tandem, is this a name, a bike? The trike in the movie is just a prototype. Anyway what looks very interesting is the way he installed the motor. It's just below the seat and the stator and rotor are both connected to a chainring. See the picture below for his design in 2015, the configuration is clearly different in the trike set-up.
+
+![hubmid](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/hubasmid.png)
+
+- [youtube fragment](https://www.youtube.com/watch?v=S6kONVGS2qk)
+
+- [youtube fragment](https://www.youtube.com/watch?v=WUoEbcKhzgo)
+
 
 Jose
 =====
