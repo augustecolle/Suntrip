@@ -1,4 +1,13 @@
-# Transmission
+# Transmission - chains
+
+Although the Connex catalog seems more extensive all the threads I read on public fora indicate a better performance from the KMC chains.
+
+The optimal combination seems to be KMC chain with Wipperman Connex master link.
+
+[Example Wipperman Connex](https://www.amazon.com/Wippermann-Connex-11-Speed-Stainless-Steel/dp/B010DRJVOA?tag=viglink20255-20)
+[KMC chain selection](http://www.kmcchain.eu/CHAIN_CHOICE)
+
+# Transmission - gears
 
 Derailleur system
 -----------------
