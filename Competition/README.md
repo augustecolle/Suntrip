@@ -27,9 +27,12 @@ Bernard Cauquil
 
 ![hubmid](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/hubasmid.png)
 
-- [youtube fragment](https://www.youtube.com/watch?v=S6kONVGS2qk)
+![specs](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/bernard_cauquil-2015-specs.png)
 
-- [youtube fragment](https://www.youtube.com/watch?v=WUoEbcKhzgo)
+
+- [finish - youtube](https://www.youtube.com/watch?v=S6kONVGS2qk)
+
+- [tech. - youtube](https://www.youtube.com/watch?v=WUoEbcKhzgo)
 
 
 Jose
