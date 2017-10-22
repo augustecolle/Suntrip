@@ -34,6 +34,11 @@ Bernard Cauquil
 
 - [tech. - youtube](https://www.youtube.com/watch?v=WUoEbcKhzgo)
 
+Raf Van Hulle
+=============
+
+![raf](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/rafvanhulle.jpg)
+
 
 Jose
 =====

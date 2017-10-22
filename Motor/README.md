@@ -2,8 +2,34 @@
 Motor
 =====
 
+For the moment I'm only looking at efficiency curves. I mention peak efficiency followed by an indication of sensitivity by mentioning the RPM range for which the efficiency > 80%.
+
 Hub motors
 ----------
+
+### Grin All-Axle
+
+87.9% [333.4 - 485.9] [80.0 - 80.5] a range of 152.5 RPM
+
+### Grin Hub
+
+Same motor
+
+### 9C+ 2705
+
+87.9% [387.6 - 579.7] [80.0 - 80.6] a range of 192.1 RPM
+
+Other 9C+ motors have less performance
+
+### Bafang BPM
+
+82.8% [280.5 - 360.1] [80.0 - 80.0] a range of 79.6 RPM
+
+### Mac 10T
+
+
+### 
+
 
 ### BMC V2, V3, V4
 
