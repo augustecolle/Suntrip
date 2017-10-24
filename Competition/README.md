@@ -39,7 +39,7 @@ Raf Van Hulle
 
 2015 fiets:
 ![raf2015](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/rafvanhulle_2015.png)
-
+![raf2015](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/rafvanhulle_2015-2.png)
 
 ![raf](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/rafvanhulle.jpg)
 
