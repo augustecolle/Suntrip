@@ -24,6 +24,9 @@ The start proper should take place in Chamonix on June 19 or 20
 
 Least relief, most sun, shortest distance, least borders to cross?
 
+After watching Sun Trip 2013 we definitely want to prefer paved roads to unpaved ones.
+Especially since dodging stones and potholes is more difficult on a trike.
+
 ## Started routing :hear_no_evil:
 
 1. Started to make a track based on the profile of a "racingbike" on [graphhopper](https://www.graphhopper.com/). This profile prefers "roads", which I interpret as paved. It is the only route planner I found which is able to plan such a long distance and it comes pretty close to the straight line in Google Earth.
