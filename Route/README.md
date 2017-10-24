@@ -1,5 +1,21 @@
 # Route
 
+_sun trip organisers:_
+  - if there are checkpoints it will be only in China, and only if Chinese authoritories ask that.
+  - pour clair et direct seuls les trois jours du prologue en France seront assistés, avec un accueil chaque soir pris en charge, et aussi pour votre arrivée à Canton.
+
+
+At this time, we aim at holding the official departure in Lyon on June 15 or 16 (this is provisional information).
+
+Then we should spend 3-4 days together on a prologue:
+one night near the Bourget Lake (Savoie), near Aix-les-Bains & Chambéry. 
+one night in the Bauges mountains (Savoie). 
+one night in the Aravis mountains (Haute-Savoie), near Le Grand Bornand. To be confirmed. 
+and then, the final base camp in Chamonix. 
+
+The start proper should take place in Chamonix on June 19 or 20
+
+
 ## TO DO:
 
 1. Check the raw_route manually for forbidden border crossings, check on paved roads and check if all roads are doable with a bicycle.
