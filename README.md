@@ -11,6 +11,8 @@ Rien    = :car:
 
 ## Urgent TO DO's
 
+- present yourself
+
 1. Order frame -- :hear_no_evil:
 2. Make a technical drawing of frame
 3. Do research on aerodynamic drag -- :smirk_cat:
