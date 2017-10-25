@@ -44,4 +44,6 @@ Rien    = :car:
 
 7. Mapping an ideal route :hear_no_evil:
 
+8. VISAs for all countries
+
 
