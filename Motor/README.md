@@ -3,6 +3,7 @@ Motor
 =====
 
 For the moment I'm only looking at efficiency curves. I mention peak efficiency followed by an indication of sensitivity by mentioning the RPM range for which the efficiency > 80%.
+Wheel size = 20"
 
 Hub motors
 ----------
