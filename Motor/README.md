@@ -25,6 +25,8 @@ Other 9C+ motors have less performance
 
 82.8% [280.5 - 360.1] [80.0 - 80.0] a range of 79.6 RPM
 
+### [294.0 - 401.8] [80.0 - 80.3] a range of  
+
 ### Mac 10T
 
 
