@@ -1,6 +1,11 @@
 All about PV
 ============
 
+Regulations
+-----------
+
+550 Wp / 3.05 m^2  (~180 W/m^2, we want at least this, if not higher if we go below surface area 3.05 m^2 while still maintaining 550 Wp)
+
 
 Flexible solar panels
 ---------------------
