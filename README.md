@@ -13,7 +13,7 @@ Rien    = :car:
 
 - present yourself :hear_no_evil: DONE
 
-1. ~~Order frame -- :hear_no_evil: ~~ DONE
+1. ~~Order frame -- ~~ :hear_no_evil: DONE
 2. Make a technical drawing of frame
 3. Do research on aerodynamic drag -- :smirk_cat:
 4. ~~Read regulations in "Suntrip" folder -- :hear_no_evil: :smirk_cat: ~~ DONE
