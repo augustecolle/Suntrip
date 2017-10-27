@@ -17,6 +17,12 @@ The start proper should take place in Chamonix on June 19 or 20
 
 ## Route segments:
 
+GraphHopper for start-finish : 12150 km
+Sum of indiv. segments : 10795 km (-1355km) 
+
+
+- Chamonix - Uralsk : Graphopper, not checked
+
 - Kazachstan : Uralsk - Zahrkent (approx. 3000km)
     - possible route through Kazachstan on what looks like paved roads all the way.
       Bicycling touring seems ok on section between Shymkent and Almaty, relatively "popular"
@@ -25,6 +31,14 @@ The start proper should take place in Chamonix on June 19 or 20
 
 - [Kiev-Krakow](https://www.bikemap.net/en/route/3290130-kiev-krakow-927km-1680hm/#/z11/49.9887595,20.1811981/terrain)
 - [Shanghai - Kazachstan](https://www.bikemap.net/en/route/818839-shanghai-to-kazakhstan/#/z6/41.1124688,101.3378906/google_roadmap)
+
+
+- China:
+    - (K)Horgos-border crossing to Urumqi via G312/G30. Apparently highway is closed officially closed to cyclists. Several blogs mentioning ignoring signs and riding through [1](https://www.crazyguyonabike.com/doc/page/?page_id=82269), [2](https://brakingboundaries.org/2014/06/25/scenes-road-urumqi-zhangye/), [3](http://www.twistingspokes.com/we-cycled-to-china-everything-changed/), [4](https://ontheroadagain.travellerspoint.com/82/). In fact all posts about Almaty - Urumqi seem to take the G312/G30...
+      - added GPX track using graphopper, had to set profile to cars to get track along G30 as bicycle profile will not take this...
+    - [Urumqi - Xian](https://www.crazyguyonabike.com/doc/?doc_id=3112) blog of Urumqi - Xian route, follows graphopper more or less
+
+    - Huazou - Guangzhou (finish) : Graphopper, not checked.
 
 ## TO DO:
 
