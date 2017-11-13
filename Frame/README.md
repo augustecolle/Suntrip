@@ -1,7 +1,13 @@
 Frame
-=====
+======
 
-Frame order in proces, made the purchase order on 25/10 :hear_no_evil:
+
+Sizing
+------
+
+Rear dropouts inner length: 137 mm
+Rear dropouts outer length: 154 mm
+
 
 
 Fairing
