@@ -6,6 +6,7 @@ Sizing
 ------
 
 Rear dropouts inner length: 137 mm
+
 Rear dropouts outer length: 154 mm
 
 
