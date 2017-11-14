@@ -4,7 +4,7 @@ Frame
 Freewheels
 ----------
 
-Current freewheels are of the brand [Dicta](http://www.dicta.com.tw/), according to most reviews they basically suck. ![Dicta](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Frame/figures/dicta.jpg)
+Current freewheels are of the brand [Dicta](http://www.dicta.com.tw/), according to most reviews they basically suck. ![Dicta](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Frame/figures/dicta.png)
 
 
 Sizing
