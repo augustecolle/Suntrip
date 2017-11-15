@@ -27,7 +27,7 @@ Bernard Cauquil
 
 ![hubmid](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/hubasmid.png)
 
-![specs](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/bernard_cauquil-2015-specs.png)
+![specs](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/bernard_cauquil-2014-specs.png)
 
 
 - [finish - youtube](https://www.youtube.com/watch?v=S6kONVGS2qk)
