@@ -14,7 +14,7 @@ Rien    = :car:
 - ~~present yourself :hear_no_evil:~~ DONE
 
 1. ~~Order frame -- :hear_no_evil:~~ DONE
-2. Make a technical drawing of frame
+2. Make a technical drawing of frame :hear_no_evil:
 3. Do research on aerodynamic drag -- :smirk_cat:
 4. ~~Read regulations in "Suntrip" folder -- :hear_no_evil: :smirk_cat:~~ DONE
 
@@ -28,7 +28,7 @@ Rien    = :car:
 
    Tandem regulations: max. 550 Wp and 3.05 m<sup>2</sup> __visible__. Max 1000 Wp in total. Working voltage must be <= 60 V.
 
-3. Passports: Each participant must hold before January 1st, 2018 a passport whose validity shall extend at least until February 1st, 2019.
+3. ~~Passports: Each participant must hold before January 1st, 2018 a passport whose validity shall extend at least until February 1st, 2019.~~ DONE
  
 4. Medical -- **before April 15th 2017** -- :hear_no_evil: :smirk_cat:
 
