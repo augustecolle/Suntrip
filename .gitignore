@@ -2,3 +2,5 @@
 *.pyc
 *.[oa]
 .~*
+# ignore of SolidWorks temp files:
+~$*
