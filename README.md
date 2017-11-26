@@ -7,16 +7,18 @@ Auguste = :hear_no_evil:
 Camille = :smirk_cat:
 Baptist = :pig2:
 Rien    = :car:
+Mathieu = :construction_worker:
 
 
 ## Urgent TO DO's
 
-- ~~present yourself :hear_no_evil:~~ DONE
-
-1. ~~Order frame -- :hear_no_evil:~~ DONE
-2. Make a technical drawing of frame :hear_no_evil:
-3. Do research on aerodynamic drag -- :smirk_cat:
+1. Make a technical drawing of frame :hear_no_evil: :smirk_cat: almost done
+2. Start research on how to construct the roof :construction_worker:
+3. Do research on aerodynamic drag -- :hear_no_evil: :smirk_cat:
 4. ~~Read regulations in "Suntrip" folder -- :hear_no_evil: :smirk_cat:~~ DONE
+5. ~~Order frame -- :hear_no_evil:~~ DONE
+6. ~~present yourself :hear_no_evil:~~ DONE
+
 
 ## TO DO's
 
