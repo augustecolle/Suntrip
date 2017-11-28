@@ -18,5 +18,5 @@ TO ORDER:
 - ~~[8 speed derailleur](https://www.bikester.be/shimano-altus-rd-m310-achterderailleur-7-8-fach-kurz-zwart-707645.html), quantity 1~~ DONE :hear_no_evil:
 - ~~[tandem shifter cable](https://www.bikester.be/shimano-tandem-stainless-schakelkabel-12x3000mm-zilver-695544.html?eqrecqid=d79e7751-d35f-11e7-a1ad-002421dde24d), quantity 2~~ DONE :hear_no_evil:
 - ~~[8 speed chain](https://www.bikester.be/fietsonderdelen/fiets-cassettes-fietskettingen/678-speed-kettingen/224138.html), quantity 2~~ DONE :hear_no_evil:
-- ~~[velglint](https://www.bikester.be/schwalbe-tubeless-velglint-10m-x-25mm-blauw-401944.html), quantity 1~~ DONE :hear_no_evil:
+- ~~[velglint](https://www.bikester.be/schwalbe-tubeless-velglint-10m-x-25mm-blauw-401944.html), quantity 1~~ DONE :hear_no_evil: NOTE: I changed this to a non-tubeless version. I chose 15mm width since this is the closest match (available on bikester) with the rim of 14mm.
 
