@@ -15,6 +15,7 @@ Mathieu = :construction_worker:
 1. Start research on how to construct the roof :construction_worker:
 2. Do research on aerodynamic drag -- :hear_no_evil: :smirk_cat:
 3. Start research on best MPPT buck/boost converter for Li-ion technology -- :hear_no_evil:
+4. Start research on batterypack -- :hear_no_evil:
 3. ~~Make a technical drawing of frame :hear_no_evil: :smirk_cat:~~ DONE
 4. ~~Read regulations in "Suntrip" folder -- :hear_no_evil: :smirk_cat:~~ DONE
 5. ~~Order frame -- :hear_no_evil:~~ DONE
