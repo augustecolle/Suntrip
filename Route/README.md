@@ -18,10 +18,12 @@ The start proper should take place in Chamonix on June 19 or 20
 ## Route segments:
 
 GraphHopper for start-finish (Chamonix - Canton)
+
     - distance       : 12150 km
     - elevation gain : 68882 m
 
 Sum of indiv. segments:
+
     - distance       : 11941 km
     - elevation gain : 63145 m
 
