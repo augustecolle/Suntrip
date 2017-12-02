@@ -20,3 +20,9 @@ TO ORDER:
 - ~~[8 speed chain](https://www.bikester.be/fietsonderdelen/fiets-cassettes-fietskettingen/678-speed-kettingen/224138.html), quantity 2~~ DONE :hear_no_evil:
 - ~~[velglint](https://www.bikester.be/schwalbe-tubeless-velglint-10m-x-25mm-blauw-401944.html), quantity 1~~ DONE :hear_no_evil: NOTE: I changed this to a non-tubeless version. I chose 15mm width since this is the closest match (available on bikester) with the rim of 14mm.
 
+
+:smirk_cat: ** Bikester **
+- [9 speed shimano casette](https://www.bikester.be/shimano-cs-hg201-cassette-9s-zilver-644108.html)
+- [9 speed chain](https://www.bikester.be/shimano-deore-cn-hg53-fietsketting-9-speed-grijs-551920.html)
+- [centerlock disk brake](#) Measure existing rotors first for correct diameter!
+- [handlebar grips](#) measure needed length/width?
