@@ -22,8 +22,8 @@ GraphHopper for start-finish (Chamonix - Canton)
     - elevation gain : 68882 m
 
 Sum of indiv. segments:
-    - distance       : 11187 km (- 261km)
-    - elevation gain : 66015 m
+    - distance       : 11941 km
+    - elevation gain : 63145 m
 
 
 - Chamonix - Uralsk : Graphopper, not checked
@@ -48,7 +48,9 @@ Sum of indiv. segments:
     
     - [Xinjang, Gansu](https://cycling4cancer.wordpress.com/2013/08/23/epic-distances-through-western-china-traversing-xinjiang-gansu-and-qinghai/) mentions riding on the G30 express way instead of the parallel G312.
     
-    - Wuwei - Guangzhou (finish) : Graphopper, not checked.
+    - Wuwei - Xi'an (Liantan) : checked with Google maps (sattelite), looks asphalt all the way. Note that Wuwei - Xi'an over Lanzhou is similar in distance but has much more height meters, so going via Zhonwei en Pingliang is favoured.
+    
+    - Xi'an (Liantan) - Guangzhou (finish) : Graphopper, not checked.
 
 ## TO DO:
 
