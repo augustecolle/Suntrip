@@ -41,9 +41,14 @@ Sum of indiv. segments:
 - China:
     - (K)Horgos-border crossing to Urumqi via G312/G30. Apparently highway is closed officially closed to cyclists. Several blogs mentioning ignoring signs and riding through [1](https://www.crazyguyonabike.com/doc/page/?page_id=82269), [2](https://brakingboundaries.org/2014/06/25/scenes-road-urumqi-zhangye/), [3](http://www.twistingspokes.com/we-cycled-to-china-everything-changed/), [4](https://ontheroadagain.travellerspoint.com/82/). In fact all posts about Almaty - Urumqi seem to take the G312/G30...
       - added GPX track using graphopper, had to set profile to cars to get track along G30 as bicycle profile will not take this...
-    - [Urumqi - Xian](https://www.crazyguyonabike.com/doc/?doc_id=3112) blog of Urumqi - Xian route, follows graphopper more or less
-
-    - Huazou - Guangzhou (finish) : Graphopper, not checked.
+    
+    - [Xinjiang province](http://www.14degrees.org/china-xinjiang-province/) (Khorgos-border to Gansu province border). Follows G312 all the way. With description of road and accomodations along the way.
+    
+    - [Urumqi - Xian](https://www.crazyguyonabike.com/doc/?doc_id=3112) blog of Urumqi - Xian route. Mentions taking the  (toll) "express way" that runs parallel to G312 although technically no cyclists allowed.
+    
+    - [Xinjang, Gansu](https://cycling4cancer.wordpress.com/2013/08/23/epic-distances-through-western-china-traversing-xinjiang-gansu-and-qinghai/) mentions riding on the G30 express way instead of the parallel G312.
+    
+    - Wuwei - Guangzhou (finish) : Graphopper, not checked.
 
 ## TO DO:
 
