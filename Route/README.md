@@ -52,7 +52,13 @@ Sum of indiv. segments:
     
     - Wuwei - Xi'an (Liantan) : checked with Google maps (sattelite), looks asphalt all the way. Note that Wuwei - Xi'an over Lanzhou is similar in distance but has much more height meters, so going via Zhonwei en Pingliang is favoured. Looking on strava it seems that in and around Lanzhou cycling is more popular.
     
-    - Xi'an (Liantan) - Guangzhou (finish) : Graphopper, not checked. Strava, not checked. Note that strava gives half the elevation gain. (How accurate is this?)
+    - Xi'an (Liantan) - Denzhou : checked with Google maps sattelite view
+    
+    - Jingzhou (Try to take the [ferry](http://georgethecyclist.blogspot.be/2009/10/zhijang-china.html), bridge detour is approx 150 to 200 km).
+    
+    - Denzhou - Chenzhou : check with Google maps sattelite
+    
+    - Chengzhou - Guangzhou (finish) : Graphopper, not checked. Strava, not checked. Note that strava gives half the elevation gain. (How accurate is this?)
 
 ## TO DO:
 
