@@ -50,9 +50,9 @@ Sum of indiv. segments:
     
     - [Xinjang, Gansu](https://cycling4cancer.wordpress.com/2013/08/23/epic-distances-through-western-china-traversing-xinjiang-gansu-and-qinghai/) mentions riding on the G30 express way instead of the parallel G312.
     
-    - Wuwei - Xi'an (Liantan) : checked with Google maps (sattelite), looks asphalt all the way. Note that Wuwei - Xi'an over Lanzhou is similar in distance but has much more height meters, so going via Zhonwei en Pingliang is favoured.
+    - Wuwei - Xi'an (Liantan) : checked with Google maps (sattelite), looks asphalt all the way. Note that Wuwei - Xi'an over Lanzhou is similar in distance but has much more height meters, so going via Zhonwei en Pingliang is favoured. Looking on strava it seems that in and around Lanzhou cycling is more popular.
     
-    - Xi'an (Liantan) - Guangzhou (finish) : Graphopper, not checked.
+    - Xi'an (Liantan) - Guangzhou (finish) : Graphopper, not checked. Strava, not checked. Note that strava gives half the elevation gain. (How accurate is this?)
 
 ## TO DO:
 
