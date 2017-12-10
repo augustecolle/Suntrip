@@ -23,6 +23,7 @@ Michel Bamps
 Bernard Cauquil
 ===============
 
+- [website](http://bernardcauquil.fr/parrainage/index.php?route=product/category&path=20) met alle details van zijn fiets!
 - [blog](http://www.sunrider.fr/)
 - hij doet mee aan een [wedstrijd](http://bikingman.com/en/bikingman-oman/) in februari (met zonnefiets?)
 - [strava](https://www.strava.com/athletes/14980880) Hij is precies goed getraint.
