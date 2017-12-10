@@ -23,6 +23,8 @@ Michel Bamps
 Bernard Cauquil
 ===============
 
+- [blog](http://www.sunrider.fr/)
+- [strava](https://www.strava.com/athletes/14980880) Hij is precies goed getraint.
 - [youtube filmtje](https://www.youtube.com/watch?v=NAL1kyalmh8), trike w. fat tires, solar panel roof and he talks about a Tandem, is this a name, a bike? The trike in the movie is just a prototype. Anyway what looks very interesting is the way he installed the motor. It's just below the seat and the rotor is connected to the chainrings. See the picture below for his design in 2015, the configuration is clearly different in the trike set-up but has the same working principle. The first thing advantages I can think of, you can easily migrate to the max. eff. point of the motor by choosing an appropriate gear ratio determined by your cruising speed.
 
 ![hubmid](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/hubasmid.png)
