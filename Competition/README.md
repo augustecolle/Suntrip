@@ -1,6 +1,12 @@
 
 Andere deelnemers uitchecken, alleen personen vermeld die specs. van hun fiets hebben gepost.
 
+Maroccan Team
+===============
+
+![bikephoto1](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/maroccanteam1.jpg)
+![bikephoto2](https://raw.githubusercontent.com/augustecolle/Suntrip/master/Competition/images/maroccanteam2.jpg)
+
 W W Ching on an eZeebike
 ========================
 
