@@ -1,0 +1,77 @@
+<Block caption="simple" number="8">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="Vwr::LoadFlowField" number="0">
+<![CDATA[
+EXTERNAL=0   LAMTURB=1   CHT=0
+IT=6   NT=2   NZ=1
+U_DIM_EXT_MAX=8   US_DIM=0
+-----------------------------------------------------------------------
+Allocating meshes:
+	CPU count: 4
+	MESH 0:
+		Sub-meshes count: 4
+-----------------------------------------------------------------------
+----------------------------------------------------------
+BCF --> BCF.GEOMSUBDOM (bridge arrays) (cpu_num=4):
+MESH (0):
+	Fluid Subdom Constructor: 1 subdom(s).
+	Solid Subdom Constructor: 9 subdom(s).
+	Net Asm Subdom Constructor: 0 subdom(s).
+	GEOMSUBDOM (0): gi=0 fluid av=11038 cv=10967 fa=31889 fw=6910 V=6.199417e+000
+	GEOMSUBDOM (1): gi=1 solid av=1224 cv=1224 fa=3093 fw=3040 V=6.272991e-002
+	GEOMSUBDOM (2): gi=1 solid av=58 cv=58 fa=94 fw=414 V=1.180969e-004
+	GEOMSUBDOM (3): gi=1 solid av=4 cv=4 fa=4 fw=28 V=9.236168e-008
+	GEOMSUBDOM (4): gi=1 solid av=4 cv=4 fa=4 fw=16 V=3.830954e-007
+	GEOMSUBDOM (5): gi=1 solid av=8 cv=8 fa=10 fw=43 V=5.447566e-006
+	GEOMSUBDOM (6): gi=1 solid av=4 cv=4 fa=4 fw=20 V=3.883218e-009
+	GEOMSUBDOM (7): gi=1 solid av=4 cv=4 fa=4 fw=19 V=3.266906e-008
+	GEOMSUBDOM (8): gi=1 solid av=34 cv=34 fa=59 fw=288 V=3.100291e-004
+	GEOMSUBDOM (9): gi=1 solid av=10 cv=10 fa=13 fw=58 V=4.264547e-005
+	Setting nb of w-faces...OK.
+
+MESH (0) checking:
+	GEOMSUBDOM (0):fa_s=206.4108196916882900 fw_s=25.2972790691610750 fw_nb=70274
+	GEOMSUBDOM (1):fa_s=3.7583558426502579 fw_s=1.6319137467263585 fw_nb=35324
+	GEOMSUBDOM (2):fa_s=0.0182829815640247 fw_s=0.0387552320253156 fw_nb=6140
+	GEOMSUBDOM (3):fa_s=0.0000487246282091 fw_s=0.0001863865940498 fw_nb=216
+	GEOMSUBDOM (4):fa_s=0.0001299035233428 fw_s=0.0004430610638540 fw_nb=94
+	GEOMSUBDOM (5):fa_s=0.0005249055897129 fw_s=0.0042156217814793 fw_nb=340
+	GEOMSUBDOM (6):fa_s=0.0000865885683147 fw_s=0.0001864770468442 fw_nb=234
+	GEOMSUBDOM (7):fa_s=0.0000335036741770 fw_s=0.0000978487700814 fw_nb=170
+	GEOMSUBDOM (8):fa_s=0.0237509164930403 fw_s=0.0375785515577987 fw_nb=3394
+	GEOMSUBDOM (9):fa_s=0.0034342091544424 fw_s=0.0117365090164871 fw_nb=496
+MESH (0) checking: OK.
+----------------------------------------------------------
+Read cpt took 0.37 sec.
+
+===ThermodynamicsHolder:===
+Subdom 0 Ideal gas thermodynamics
+	substance 0 type=fwGas, guid=2B966F4A9A9F11D4A50048A0E8000000, name=Air
+===ThermodynamicsHolder:===
+MESH::Bricks: Total=11193 Gas=9907 Solid=178 Partial=1108 Irregular=0
+CD X0= -1.2888725229, X1= 2.9461741183, Y0= 0.455232834449, Y1= 1.71963267264, Z0= -0.910859064603, Z1= 0.258677178825
+Working in No GDBLight mode
+Working in No GDBLight mode
+Read cfld took 0.05 sec.
+Collecting Reference Parameters... OK
+Read fld took 0.09 sec.
+
+]]>
+<Block caption="simple" number="9">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+</Block>

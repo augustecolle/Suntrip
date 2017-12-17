@@ -1,0 +1,93 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2017 SP4.0. Build: 3864
+                Computer name:   PC
+                User name:   Camille
+                Processors:   Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+                Memory:   3893 MB / 8388607 MB
+                Operating system:   Windows 7 Service Pack 1 (Version 6.1.7601)
+                CAD version:   SOLIDWORKS 2017 SP4.1
+                CPU speed:   2266 MHz
+
+    General Info
+                Model:   Assembly_simple.SLDASM
+                Project name:   Project(2)
+                Project path:   C:\Users\Camille\Documents\GitHub\Suntrip\Frame\Solidworks\Assembly\3
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (exclude internal spaces)
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global coordinate system
+                Reference axis:   Z
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                High Mach number flow:   Off
+                Humidity:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -1.090 m
+                X max:   1.318 m
+                Y min:   0.140 m
+                Y max:   2.238 m
+                Z min:   -2.024 m
+                Z max:   6.289 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   28
+                Number of cells in Y:   26
+                Number of cells in Z:   92
+
+        Number Of Cells
+                Cells:   77620
+                Fluid cells:   77620
+                Irregular cells:   0
+                Trimmed cells:   0
+                Maximum refinement level:   1
+
+    Goals
+
+        Global Goals
+
+            GG Force (X) 1
+                Type:   Global Goal
+                Goal type:   Force (X)
+                Coordinate system:   Global coordinate system
+                Criteria:   1.000 N
+                Use in convergence :   On
+
+            GG Force (Z) 1
+                Type:   Global Goal
+                Goal type:   Force (Z)
+                Coordinate system:   Global coordinate system
+                Use in convergence :   On
+
+    Goals
+                
+                Name             	Unit   	Value   	Progress   	Criteria       	Delta           	Use in convergence 
+                GG Force (X) 1   	N      	0.082   	100        	0.0195722311   	0.0100656294    	On                 
+                GG Force (Z) 1   	N      	4.052   	100        	0.402338517    	0.00690122831   	On                 
+
+    General Info
+                Iterations:   342
+                CPU time:   1958 s
+
+        Log
+                Mesh generation started	0:   15:26:42 , Dec 17
+                Mesh generation normally finished	0:   15:27:30 , Dec 17
+                Preparing data for calculation	0:   15:27:31 , Dec 17
+                Calculation started	0:   15:27:41 , Dec 17
+                Calculation has converged since the following criteria are satisfied:	341:   16:00:13 , Dec 17
+                    Goals are converged	341:   
+                    Max. iteration is reached	341:   
+                    Max. travel is reached	341:   
+                Calculation finished	342:   16:00:35 , Dec 17
