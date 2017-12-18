@@ -1,0 +1,18 @@
+# speed (m/s), GG Force Z (N) avg., global init mesh, global mesh refinement
+# global init mesh is the slider when right clicking "edit" on global mesh
+# global mesh refinement is the number under the "refinement" tab on the calculation options
+10    9.086   2   7
+10   14.591   3   7
+10   15.668   4   7
+10   15.915   5   7
+
+ 5    2.283   2   7
+ 5    3.696   3   7
+ 5    3.916   4   7
+ 5    4.052   5   7
+
+ 1    0.093   2   7
+ 1    0.145   3   7
+ 1    0.159   4   7
+ 1    0.163   5   7
+
