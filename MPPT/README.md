@@ -5,3 +5,8 @@
 
 [link](http://tahmidmc.blogspot.be/2013/01/using-high-low-side-driver-ir2110-with.html)
 
+MG Electronics
+--------------
+
+[MG Solar MPPT](https://www.mgenergysystems.eu/rd/mg-solar-mppt/#specifications)
+
