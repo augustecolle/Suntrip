@@ -703,3 +703,420 @@ Read fld took 0.50 sec.
 
 ]]>
 </Block>
+<Block caption="simple" number="3">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="simple" number="4">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="5">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="6">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="Vwr::LoadFlowField" number="0">
+<![CDATA[
+EXTERNAL=0   LAMTURB=1   CHT=0
+IT=6   NT=2   NZ=1
+U_DIM_EXT_MAX=8   US_DIM=0
+-----------------------------------------------------------------------
+Allocating meshes:
+	CPU count: 4
+	MESH 0:
+		Sub-meshes count: 4
+-----------------------------------------------------------------------
+----------------------------------------------------------
+BCF --> BCF.GEOMSUBDOM (bridge arrays) (cpu_num=4):
+MESH (0):
+	Fluid Subdom Constructor: 1 subdom(s).
+	Solid Subdom Constructor: 36 subdom(s).
+	Net Asm Subdom Constructor: 0 subdom(s).
+	GEOMSUBDOM (0): gi=0 fluid av=82304 cv=81814 fa=242860 fw=28391 V=4.178562e+001
+	GEOMSUBDOM (1): gi=1 solid av=10 cv=10 fa=13 fw=57 V=1.512516e-005
+	GEOMSUBDOM (2): gi=1 solid av=1941 cv=1941 fa=4816 fw=4263 V=6.504980e-002
+	GEOMSUBDOM (3): gi=1 solid av=4 cv=4 fa=4 fw=32 V=7.018732e-007
+	GEOMSUBDOM (4): gi=1 solid av=4 cv=4 fa=4 fw=24 V=8.210362e-008
+	GEOMSUBDOM (5): gi=1 solid av=52 cv=52 fa=89 fw=303 V=8.769448e-005
+	GEOMSUBDOM (6): gi=1 solid av=4 cv=4 fa=4 fw=5 V=2.104492e-014
+	GEOMSUBDOM (7): gi=1 solid av=4 cv=4 fa=4 fw=46 V=5.920174e-007
+	GEOMSUBDOM (8): gi=1 solid av=6 cv=6 fa=8 fw=67 V=5.312217e-006
+	GEOMSUBDOM (9): gi=1 solid av=54 cv=54 fa=103 fw=120 V=4.213983e-004
+	GEOMSUBDOM (10): gi=1 solid av=6 cv=6 fa=7 fw=44 V=2.809333e-005
+	GEOMSUBDOM (11): gi=1 solid av=2397 cv=2397 fa=5793 fw=3332 V=6.470037e-002
+	GEOMSUBDOM (12): gi=1 solid av=4 cv=4 fa=4 fw=19 V=1.179956e-006
+	GEOMSUBDOM (13): gi=1 solid av=4 cv=4 fa=4 fw=16 V=5.775538e-007
+	GEOMSUBDOM (14): gi=1 solid av=4 cv=4 fa=4 fw=27 V=7.161526e-007
+	GEOMSUBDOM (15): gi=1 solid av=142 cv=142 fa=279 fw=676 V=1.312134e-003
+	GEOMSUBDOM (16): gi=1 solid av=142 cv=142 fa=279 fw=643 V=1.313563e-003
+	GEOMSUBDOM (17): gi=1 solid av=594 cv=594 fa=1190 fw=1800 V=3.770083e-003
+	GEOMSUBDOM (18): gi=1 solid av=12 cv=12 fa=20 fw=104 V=3.344206e-005
+	GEOMSUBDOM (19): gi=1 solid av=4 cv=4 fa=4 fw=4 V=7.419349e-009
+	GEOMSUBDOM (20): gi=1 solid av=6 cv=6 fa=8 fw=36 V=1.500347e-008
+	GEOMSUBDOM (21): gi=1 solid av=1906 cv=1906 fa=4790 fw=4074 V=6.494623e-002
+	GEOMSUBDOM (22): gi=1 solid av=8 cv=8 fa=10 fw=30 V=1.547720e-005
+	GEOMSUBDOM (23): gi=1 solid av=125 cv=125 fa=229 fw=459 V=5.574652e-004
+	GEOMSUBDOM (24): gi=1 solid av=6 cv=6 fa=7 fw=39 V=1.996357e-006
+	GEOMSUBDOM (25): gi=1 solid av=4 cv=4 fa=4 fw=24 V=8.047008e-007
+	GEOMSUBDOM (26): gi=1 solid av=6 cv=6 fa=7 fw=77 V=2.801334e-006
+	GEOMSUBDOM (27): gi=1 solid av=12 cv=12 fa=22 fw=64 V=2.408929e-005
+	GEOMSUBDOM (28): gi=1 solid av=8 cv=8 fa=10 fw=23 V=1.604861e-006
+	GEOMSUBDOM (29): gi=1 solid av=4 cv=4 fa=4 fw=5 V=2.214674e-007
+	GEOMSUBDOM (30): gi=1 solid av=4 cv=4 fa=4 fw=5 V=2.578354e-008
+	GEOMSUBDOM (31): gi=1 solid av=146 cv=146 fa=285 fw=686 V=1.306453e-003
+	GEOMSUBDOM (32): gi=1 solid av=6 cv=6 fa=7 fw=6 V=3.306997e-006
+	GEOMSUBDOM (33): gi=1 solid av=6 cv=6 fa=7 fw=6 V=3.306997e-006
+	GEOMSUBDOM (34): gi=1 solid av=8 cv=8 fa=10 fw=25 V=6.848645e-006
+	GEOMSUBDOM (35): gi=1 solid av=8 cv=8 fa=10 fw=8 V=2.258057e-006
+	GEOMSUBDOM (36): gi=1 solid av=4 cv=4 fa=4 fw=6 V=7.530715e-007
+	Setting nb of w-faces...OK.
+
+MESH (0) checking:
+	GEOMSUBDOM (0):fa_s=1443.9337503718598000 fw_s=94.4624601521127400 fw_nb=269438
+	GEOMSUBDOM (1):fa_s=0.0025811380661692 fw_s=0.0067319560475408 fw_nb=478
+	GEOMSUBDOM (2):fa_s=4.6914175057765330 fw_s=1.6938998712152187 fw_nb=48746
+	GEOMSUBDOM (3):fa_s=0.0002965574603646 fw_s=0.0008811253129985 fw_nb=416
+	GEOMSUBDOM (4):fa_s=0.0000707694678048 fw_s=0.0001924214684084 fw_nb=294
+	GEOMSUBDOM (5):fa_s=0.0120848939334814 fw_s=0.0272836194187611 fw_nb=2590
+	GEOMSUBDOM (6):fa_s=0.0000000405367661 fw_s=0.0000000573276674 fw_nb=20
+	GEOMSUBDOM (7):fa_s=0.0001571736664477 fw_s=0.0006810131372491 fw_nb=376
+	GEOMSUBDOM (8):fa_s=0.0012811322406755 fw_s=0.0029185721371633 fw_nb=996
+	GEOMSUBDOM (9):fa_s=0.0490719772475621 fw_s=0.0564556990853736 fw_nb=1274
+	GEOMSUBDOM (10):fa_s=0.0022250753126765 fw_s=0.0070153303564583 fw_nb=470
+	GEOMSUBDOM (11):fa_s=4.6160915634284283 fw_s=4.5425688182078696 fw_nb=26788
+	GEOMSUBDOM (12):fa_s=0.0002047963623699 fw_s=0.0011676164801061 fw_nb=124
+	GEOMSUBDOM (13):fa_s=0.0001604179192708 fw_s=0.0007413040903586 fw_nb=94
+	GEOMSUBDOM (14):fa_s=0.0001535913036393 fw_s=0.0008029872603594 fw_nb=284
+	GEOMSUBDOM (15):fa_s=0.1133856110800847 fw_s=0.1601718482642765 fw_nb=7742
+	GEOMSUBDOM (16):fa_s=0.1133931156754258 fw_s=0.1599798359081589 fw_nb=6994
+	GEOMSUBDOM (17):fa_s=0.4064258123378264 fw_s=0.8049146347385873 fw_nb=19476
+	GEOMSUBDOM (18):fa_s=0.0045510511244710 fw_s=0.0091955307289082 fw_nb=996
+	GEOMSUBDOM (19):fa_s=0.0000703343689790 fw_s=0.0001314090028813 fw_nb=12
+	GEOMSUBDOM (20):fa_s=0.0009091597926681 fw_s=0.0018163379591975 fw_nb=418
+	GEOMSUBDOM (21):fa_s=4.7059171881848290 fw_s=1.6963449996848472 fw_nb=46382
+	GEOMSUBDOM (22):fa_s=0.0016333144250071 fw_s=0.0044159100120522 fw_nb=282
+	GEOMSUBDOM (23):fa_s=0.0651523477102726 fw_s=0.0870259024425198 fw_nb=4310
+	GEOMSUBDOM (24):fa_s=0.0003307488339360 fw_s=0.0020015671335441 fw_nb=306
+	GEOMSUBDOM (25):fa_s=0.0001559655987512 fw_s=0.0008807482979084 fw_nb=244
+	GEOMSUBDOM (26):fa_s=0.0003965775580976 fw_s=0.0026340608338448 fw_nb=656
+	GEOMSUBDOM (27):fa_s=0.0037463428362910 fw_s=0.0073390371023969 fw_nb=528
+	GEOMSUBDOM (28):fa_s=0.0007354825096757 fw_s=0.0019569572662087 fw_nb=140
+	GEOMSUBDOM (29):fa_s=0.0002552772961033 fw_s=0.0004004712991596 fw_nb=20
+	GEOMSUBDOM (30):fa_s=0.0001139078314735 fw_s=0.0002084982965014 fw_nb=20
+	GEOMSUBDOM (31):fa_s=0.1152598789374652 fw_s=0.1596030259166428 fw_nb=7848
+	GEOMSUBDOM (32):fa_s=0.0016008279611319 fw_s=0.0024607777818494 fw_nb=22
+	GEOMSUBDOM (33):fa_s=0.0016008279611319 fw_s=0.0024607777818494 fw_nb=22
+	GEOMSUBDOM (34):fa_s=0.0018257082772797 fw_s=0.0033226516456219 fw_nb=192
+	GEOMSUBDOM (35):fa_s=0.0014761196269649 fw_s=0.0024314092893734 fw_nb=32
+	GEOMSUBDOM (36):fa_s=0.0001984804928325 fw_s=0.0005708535853582 fw_nb=26
+MESH (0) checking: OK.
+----------------------------------------------------------
+Read cpt took 2.62 sec.
+
+===ThermodynamicsHolder:===
+Subdom 0 Ideal gas thermodynamics
+	substance 0 type=fwGas, guid=2B966F4A9A9F11D4A50048A0E8000000, name=Air
+===ThermodynamicsHolder:===
+MESH::Bricks: Total=82299 Gas=74899 Solid=682 Partial=6718 Irregular=0
+CD X0= -1.09023127231, X1= 1.31764791507, Y0= 0.14, Y1= 2.23778994678, Z0= -2.02416300524, Z1= 6.28852050305
+Working in No GDBLight mode
+Working in No GDBLight mode
+Read cfld took 0.39 sec.
+Collecting Reference Parameters... OK
+Read fld took 0.55 sec.
+
+]]>
+<Block caption="simple" number="7">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+</Block>
+<Block caption="simple" number="3">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="simple" number="4">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="5">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="6">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="7">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="8">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="9">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="10">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="11">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="12">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="13">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="14">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="15">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="16">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="17">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="18">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="19">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="20">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="21">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="3">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="simple" number="4">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="5">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="6">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="7">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="8">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="9">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="10">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="11">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="12">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="3">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="simple" number="4">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="5">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="6">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="7">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="8">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>

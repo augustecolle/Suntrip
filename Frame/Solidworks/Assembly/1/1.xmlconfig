@@ -44,7 +44,7 @@
 <Transient value="0"/>
 <WallSlipping value="0"/>
 <ComputationalDomainSidesBCTypes size="6"> 0 0 0 0 0 0 </ComputationalDomainSidesBCTypes>
-<ComputationalDomainSize size="6"> -1.0902312723136323 0.14000000000000001 -2.0241630052420412 1.3176479150716998 2.2377899467826632 6.2885205030532907 </ComputationalDomainSize>
+<ComputationalDomainSize size="6"> -0.92441123428735117 0.144336252 -2.061123130924055 1.1283002758498994 2.3853918841708581 6.8536247546487594 </ComputationalDomainSize>
 <DefaultFluids size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </DefaultFluids>
 <DisabledBodiesIDs size="0"> </DisabledBodiesIDs>
 <FluidSubstancesUUID size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </FluidSubstancesUUID>
@@ -964,9 +964,9 @@
 <MaxThinChannelRefinementLevel value="1"/>
 <MaximumChannelsThickness value="0"/>
 <MinimumChannelsThickness value="0"/>
-<Nx value="28"/>
-<Ny value="26"/>
-<Nz value="92"/>
+<Nx value="24"/>
+<Ny value="29"/>
+<Nz value="98"/>
 <PartialCellsRefinementLevel value="0"/>
 <RefineAllCells value="0"/>
 <RefineAllFluidCells value="0"/>
@@ -979,21 +979,21 @@
 <DistanceRefinementLevels size="2"> 0 0 </DistanceRefinementLevels>
 <ControlPoints index="0">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> -1 13 -1 -1 1 </NumOfCells>
-<Points size="5"> -1.0902312723136323 -0.26632825711615632 0.12586631530670689 0.51806088772957004 1.3176479150716998 </Points>
-<Ratio size="5"> 1.4930000000000001 1 1 0.67721717885666877 1 </Ratio>
+<NumOfCells size="5"> -1 4 0 -1 1 </NumOfCells>
+<Points size="5"> -0.92441123428735117 -0.26632825711615632 0.12586631530670689 0.51806088772957004 1.1283002758498994 </Points>
+<Ratio size="5"> 1.3839999999999999 1 1 0.73937964523994171 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="1">
 <Manual size="4"> 0 0 0 0 </Manual>
-<NumOfCells size="4"> 13 -1 -1 1 </NumOfCells>
-<Points size="4"> 0.14000000000000001 0.71471437363695289 1.275162119146467 2.2377899467826632 </Points>
-<Ratio size="4"> 1 1 0.63857580448801099 1 </Ratio>
+<NumOfCells size="4"> 5 -1 22 1 </NumOfCells>
+<Points size="4"> 0.144336252 0.84410280856971398 1.5298740340080337 2.3853918841708581 </Points>
+<Ratio size="4"> 1 1 0.67066016001434403 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="2">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> -1 13 77 -1 1 </NumOfCells>
-<Points size="5"> -2.0241630052420412 -1.0566464036045882 0.69498404193889884 3.8873292433214752 6.2885205030532907 </Points>
-<Ratio size="5"> 1.5369999999999999 1 1 0.4159595335106917 1 </Ratio>
+<NumOfCells size="5"> -1 5 87 -1 1 </NumOfCells>
+<Points size="5"> -2.061123130924055 -1.4460031153772976 0.62702417076664996 4.1407662127496874 6.8536247546487594 </Points>
+<Ratio size="5"> 1.3240000000000001 1 1 0.38617497605685658 1 </Ratio>
 </ControlPoints>
 </BaseMeshSettings>
 <ConvergenceOptions index="0">
@@ -1741,7 +1741,7 @@
 <Geometry index="0">
 <GeomType value="0"/>
 <GeomUUID value="00000000-0000-0000-0000-000000000000"/>
-<BodiesIDs size="6"> c591621b-fce2-4057-a58e-551245db4c6a beb58c83-914c-4ecd-9573-2c4948fb6ecb d1bc7c9e-c06e-4324-b810-ce3506e13e04 76efe9ac-fb44-4572-9772-62129f34bae9 ad57a4c1-7bed-401a-96e8-c51f401742eb d6b9e3ed-a07c-4d06-ab5b-5da84f1cb706 </BodiesIDs>
+<BodiesIDs size="7"> fe6d0d3a-2ea9-4ce1-b25c-c9da15ce38aa ef54e04a-a384-4ed3-97c7-ee6c877fe0a0 849fbf5a-9bcd-437b-b0ea-d2e67a37bf8e 916ff65a-c3c7-4375-93f6-fa0811cc55b2 25da7bb6-0cfa-4288-9d8f-f66bf8f12436 4ebc2dea-336b-427f-b0a3-6f7b6598f09f 7b168bf5-9801-4e8d-a965-431fc9ffcff9 </BodiesIDs>
 </Geometry>
 <ReferenceParameters index="0">
 <ConstTemperature value="293.19999999999999"/>

@@ -8,7 +8,7 @@
                 Memory:   3893 MB / 8388607 MB
                 Operating system:   Windows 7 Service Pack 1 (Version 6.1.7601)
                 CAD version:   SOLIDWORKS 2017 SP4.1
-                CPU speed:   2266 MHz
+                CPU speed:   2266 (1994) MHz
 
     General Info
                 Model:   Assembly_simple.SLDASM
@@ -33,23 +33,23 @@
     Computational Domain
 
         Size
-                X min:   -1.090 m
-                X max:   1.318 m
-                Y min:   0.140 m
-                Y max:   2.238 m
-                Z min:   -2.024 m
-                Z max:   6.289 m
+                X min:   -0.924 m
+                X max:   1.128 m
+                Y min:   0.144 m
+                Y max:   2.385 m
+                Z min:   -2.061 m
+                Z max:   6.854 m
 
     Calculation Mesh
 
         Basic Mesh Dimensions
-                Number of cells in X:   28
-                Number of cells in Y:   26
-                Number of cells in Z:   92
+                Number of cells in X:   24
+                Number of cells in Y:   29
+                Number of cells in Z:   98
 
         Number Of Cells
-                Cells:   77620
-                Fluid cells:   77620
+                Cells:   89393
+                Fluid cells:   89393
                 Irregular cells:   0
                 Trimmed cells:   0
                 Maximum refinement level:   1
@@ -74,20 +74,20 @@
     Goals
                 
                 Name             	Unit   	Value    	Progress   	Criteria       	Delta           	Use in convergence 
-                GG Force (X) 1   	N      	-0.088   	100        	0.0796131927   	0.00338492461   	On                 
-                GG Force (Z) 1   	N      	15.934   	100        	1.51764035     	0.00568597583   	On                 
+                GG Force (X) 1   	N      	0.922    	100        	0.0503123961   	0.00797020092   	On                 
+                GG Force (Z) 1   	N      	34.274   	100        	4.39968902     	0.00197410567   	On                 
 
     General Info
-                Iterations:   342
-                CPU time:   2013 s
+                Iterations:   358
+                CPU time:   2509 s
 
         Log
-                Mesh generation started	0:   14:10:55 , Dec 17
-                Mesh generation normally finished	0:   14:11:44 , Dec 17
-                Preparing data for calculation	0:   14:11:45 , Dec 17
-                Calculation started	0:   14:11:54 , Dec 17
-                Calculation has converged since the following criteria are satisfied:	341:   14:45:21 , Dec 17
-                    Goals are converged	341:   
-                    Max. iteration is reached	341:   
-                    Max. travel is reached	341:   
-                Calculation finished	342:   14:45:45 , Dec 17
+                Mesh generation started	0:   15:02:41 , Dec 25
+                Mesh generation normally finished	0:   15:03:28 , Dec 25
+                Preparing data for calculation	0:   15:03:29 , Dec 25
+                Calculation started	0:   15:03:40 , Dec 25
+                Calculation has converged since the following criteria are satisfied:	357:   15:45:21 , Dec 25
+                    Goals are converged	357:   
+                    Max. iteration is reached	357:   
+                    Max. travel is reached	357:   
+                Calculation finished	358:   15:45:38 , Dec 25
