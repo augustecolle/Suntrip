@@ -1068,3 +1068,22 @@ OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
 
 ]]>
 </Block>
+<Block caption="simple" number="3">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="simple" number="4">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
