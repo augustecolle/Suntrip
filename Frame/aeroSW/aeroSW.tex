@@ -16,6 +16,20 @@ Increased ``global initial mesh refinement'' until results converge.
 
 It is clear that predicted force $F$, and power $P$ calculated by $P = F v$ is low by a factor $\approx 3$. 
 
+\begin{table}[h!]
+\centering
+\begin{tabular}{ | l | r | }
+\hline
+  & Drag (N) \\ \hline
+ no roof & 15.9   \\
+ flat roof & 17.0 \\
+ curved roof & 19.1 \\
+ curved roof and sidefenders & 18.5 \\
+ covered front & 34.3 \\
+ covered front and sidefenders & 30.6 \\ \hline
+\end{tabular}
+\caption{Drag force for wind speed of 10m/s, for different roof shapes}
+\end{table}
 
 \begin{figure}[h!]
 \centering
@@ -93,6 +107,12 @@ It is clear that predicted force $F$, and power $P$ calculated by $P = F v$ is l
 \clearpage
 
 \section{roof tests}
+
+\begin{figure}[ht]
+\includegraphics[width=\textwidth]{gm_5_rf_7_v10_roof0.png}
+\caption{$v = 10 m/s$, global initial mesh = 5. Note that with the roof the drag increases from 15N to 17N. }
+\end{figure}
+
 
 \begin{figure}[ht]
 \includegraphics[width=\textwidth]{gm_5_rf_7_v05_roof1.png}
