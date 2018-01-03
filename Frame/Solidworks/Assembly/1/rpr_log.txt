@@ -2520,3 +2520,317 @@ Read fld took 0.55 sec.
 ]]>
 </Block>
 </Block>
+<Block caption="simple" number="3">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="simple" number="4">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="5">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="6">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="7">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="Vwr::LoadFlowField" number="0">
+<![CDATA[
+EXTERNAL=0   LAMTURB=1   CHT=0
+IT=6   NT=2   NZ=1
+U_DIM_EXT_MAX=8   US_DIM=0
+-----------------------------------------------------------------------
+Allocating meshes:
+	CPU count: 4
+	MESH 0:
+		Sub-meshes count: 4
+-----------------------------------------------------------------------
+----------------------------------------------------------
+BCF --> BCF.GEOMSUBDOM (bridge arrays) (cpu_num=4):
+MESH (0):
+	Fluid Subdom Constructor: 1 subdom(s).
+	Solid Subdom Constructor: 37 subdom(s).
+	Net Asm Subdom Constructor: 0 subdom(s).
+	GEOMSUBDOM (0): gi=0 fluid av=77210 cv=76949 fa=227537 fw=27348 V=4.080777e+001
+	GEOMSUBDOM (1): gi=1 solid av=8 cv=8 fa=11 fw=65 V=1.326179e-005
+	GEOMSUBDOM (2): gi=1 solid av=2067 cv=2067 fa=5152 fw=4520 V=6.519803e-002
+	GEOMSUBDOM (3): gi=1 solid av=4 cv=4 fa=4 fw=32 V=4.287465e-007
+	GEOMSUBDOM (4): gi=1 solid av=61 cv=61 fa=106 fw=410 V=9.969719e-005
+	GEOMSUBDOM (5): gi=1 solid av=4 cv=4 fa=4 fw=12 V=6.418865e-015
+	GEOMSUBDOM (6): gi=1 solid av=8 cv=8 fa=10 fw=71 V=2.679699e-006
+	GEOMSUBDOM (7): gi=1 solid av=58 cv=58 fa=111 fw=103 V=4.262087e-004
+	GEOMSUBDOM (8): gi=1 solid av=8 cv=8 fa=10 fw=43 V=3.884105e-005
+	GEOMSUBDOM (9): gi=1 solid av=1492 cv=1492 fa=4033 fw=1702 V=6.300000e-002
+	GEOMSUBDOM (10): gi=1 solid av=142 cv=142 fa=277 fw=690 V=1.310217e-003
+	GEOMSUBDOM (11): gi=1 solid av=142 cv=142 fa=277 fw=642 V=1.304766e-003
+	GEOMSUBDOM (12): gi=1 solid av=571 cv=571 fa=1134 fw=1579 V=3.715347e-003
+	GEOMSUBDOM (13): gi=1 solid av=8 cv=8 fa=12 fw=61 V=1.759638e-005
+	GEOMSUBDOM (14): gi=1 solid av=4 cv=4 fa=4 fw=6 V=3.462666e-007
+	GEOMSUBDOM (15): gi=1 solid av=2027 cv=2027 fa=5105 fw=4403 V=6.514223e-002
+	GEOMSUBDOM (16): gi=1 solid av=10 cv=10 fa=13 fw=32 V=5.105632e-006
+	GEOMSUBDOM (17): gi=1 solid av=8 cv=8 fa=10 fw=35 V=2.628425e-005
+	GEOMSUBDOM (18): gi=1 solid av=6 cv=6 fa=7 fw=33 V=8.582916e-007
+	GEOMSUBDOM (19): gi=1 solid av=4 cv=4 fa=4 fw=28 V=5.240813e-007
+	GEOMSUBDOM (20): gi=1 solid av=6 cv=6 fa=7 fw=44 V=9.024406e-007
+	GEOMSUBDOM (21): gi=1 solid av=112 cv=112 fa=205 fw=532 V=5.361463e-004
+	GEOMSUBDOM (22): gi=1 solid av=4 cv=4 fa=4 fw=25 V=7.684591e-007
+	GEOMSUBDOM (23): gi=1 solid av=4 cv=4 fa=4 fw=27 V=5.675956e-007
+	GEOMSUBDOM (24): gi=1 solid av=14 cv=14 fa=25 fw=152 V=4.221217e-005
+	GEOMSUBDOM (25): gi=1 solid av=6 cv=6 fa=7 fw=33 V=1.090052e-006
+	GEOMSUBDOM (26): gi=1 solid av=6 cv=6 fa=7 fw=8 V=3.701195e-006
+	GEOMSUBDOM (27): gi=1 solid av=6 cv=6 fa=7 fw=8 V=3.818935e-006
+	GEOMSUBDOM (28): gi=1 solid av=150 cv=150 fa=290 fw=700 V=1.312853e-003
+	GEOMSUBDOM (29): gi=1 solid av=4 cv=4 fa=4 fw=5 V=9.068137e-007
+	GEOMSUBDOM (30): gi=1 solid av=4 cv=4 fa=4 fw=4 V=4.830659e-008
+	GEOMSUBDOM (31): gi=1 solid av=4 cv=4 fa=4 fw=5 V=8.863129e-007
+	GEOMSUBDOM (32): gi=1 solid av=6 cv=6 fa=7 fw=6 V=3.216251e-006
+	GEOMSUBDOM (33): gi=1 solid av=6 cv=6 fa=7 fw=6 V=3.216251e-006
+	GEOMSUBDOM (34): gi=1 solid av=6 cv=6 fa=7 fw=11 V=3.117880e-006
+	GEOMSUBDOM (35): gi=1 solid av=6 cv=6 fa=7 fw=11 V=6.777419e-007
+	GEOMSUBDOM (36): gi=1 solid av=4 cv=4 fa=4 fw=12 V=6.185520e-011
+	GEOMSUBDOM (37): gi=1 solid av=4 cv=4 fa=4 fw=14 V=1.791327e-008
+	Setting nb of w-faces...OK.
+
+MESH (0) checking:
+	GEOMSUBDOM (0):fa_s=1399.5961029368207000 fw_s=95.0858731600701930 fw_nb=264602
+	GEOMSUBDOM (1):fa_s=0.0023211730520430 fw_s=0.0057210613155842 fw_nb=622
+	GEOMSUBDOM (2):fa_s=4.7677421753239173 fw_s=1.6960934692441776 fw_nb=51620
+	GEOMSUBDOM (3):fa_s=0.0002708836524043 fw_s=0.0006360330291290 fw_nb=416
+	GEOMSUBDOM (4):fa_s=0.0126080580829049 fw_s=0.0297589838511683 fw_nb=4086
+	GEOMSUBDOM (5):fa_s=0.0000000101341915 fw_s=0.0000000151777515 fw_nb=96
+	GEOMSUBDOM (6):fa_s=0.0004490661790713 fw_s=0.0028759555512368 fw_nb=810
+	GEOMSUBDOM (7):fa_s=0.0483616217193970 fw_s=0.0547308472816747 fw_nb=954
+	GEOMSUBDOM (8):fa_s=0.0027114264794652 fw_s=0.0087905066286293 fw_nb=370
+	GEOMSUBDOM (9):fa_s=4.3219430762073152 fw_s=4.4220000000000006 fw_nb=13458
+	GEOMSUBDOM (10):fa_s=0.1130474077968243 fw_s=0.1600999556276392 fw_nb=7868
+	GEOMSUBDOM (11):fa_s=0.1130540683181130 fw_s=0.1594588386212764 fw_nb=6892
+	GEOMSUBDOM (12):fa_s=0.3977263525913133 fw_s=0.7962257162690223 fw_nb=16558
+	GEOMSUBDOM (13):fa_s=0.0026936104196821 fw_s=0.0079081774465887 fw_nb=512
+	GEOMSUBDOM (14):fa_s=0.0001788072376502 fw_s=0.0003845456498137 fw_nb=30
+	GEOMSUBDOM (15):fa_s=4.8266701670632370 fw_s=1.7046211580239499 fw_nb=50730
+	GEOMSUBDOM (16):fa_s=0.0014548263503534 fw_s=0.0030401564254959 fw_nb=232
+	GEOMSUBDOM (17):fa_s=0.0024442504266165 fw_s=0.0072230993914709 fw_nb=294
+	GEOMSUBDOM (18):fa_s=0.0002487775034871 fw_s=0.0011040265900228 fw_nb=338
+	GEOMSUBDOM (19):fa_s=0.0001991537477343 fw_s=0.0007256375852861 fw_nb=378
+	GEOMSUBDOM (20):fa_s=0.0001960765534636 fw_s=0.0011272704286173 fw_nb=518
+	GEOMSUBDOM (21):fa_s=0.0632085186871501 fw_s=0.0826122667224812 fw_nb=6406
+	GEOMSUBDOM (22):fa_s=0.0002164464665548 fw_s=0.0009096433808128 fw_nb=340
+	GEOMSUBDOM (23):fa_s=0.0001375216560007 fw_s=0.0006937280409080 fw_nb=284
+	GEOMSUBDOM (24):fa_s=0.0050455812006141 fw_s=0.0121470179472616 fw_nb=1564
+	GEOMSUBDOM (25):fa_s=0.0002779304455009 fw_s=0.0013097026331690 fw_nb=384
+	GEOMSUBDOM (26):fa_s=0.0011965938745373 fw_s=0.0018176793805469 fw_nb=40
+	GEOMSUBDOM (27):fa_s=0.0012145648679280 fw_s=0.0018562187041962 fw_nb=40
+	GEOMSUBDOM (28):fa_s=0.1164813968349217 fw_s=0.1599782120216990 fw_nb=8050
+	GEOMSUBDOM (29):fa_s=0.0003751737519222 fw_s=0.0006755396620638 fw_nb=20
+	GEOMSUBDOM (30):fa_s=0.0001259785814008 fw_s=0.0001984470864454 fw_nb=12
+	GEOMSUBDOM (31):fa_s=0.0003763056972082 fw_s=0.0006652323946571 fw_nb=20
+	GEOMSUBDOM (32):fa_s=0.0015902164252332 fw_s=0.0024463359298829 fw_nb=22
+	GEOMSUBDOM (33):fa_s=0.0015902164252332 fw_s=0.0024463359298829 fw_nb=22
+	GEOMSUBDOM (34):fa_s=0.0011471410356279 fw_s=0.0019354007788155 fw_nb=74
+	GEOMSUBDOM (35):fa_s=0.0007023102384020 fw_s=0.0012175109499770 fw_nb=74
+	GEOMSUBDOM (36):fa_s=0.0000008268575461 fw_s=0.0000016755561434 fw_nb=96
+	GEOMSUBDOM (37):fa_s=0.0000617990035709 fw_s=0.0001274854056454 fw_nb=110
+MESH (0) checking: OK.
+----------------------------------------------------------
+Read cpt took 2.40 sec.
+
+===ThermodynamicsHolder:===
+Subdom 0 Ideal gas thermodynamics
+	substance 0 type=fwGas, guid=2B966F4A9A9F11D4A50048A0E8000000, name=Air
+===ThermodynamicsHolder:===
+MESH::Bricks: Total=77696 Gas=70989 Solid=738 Partial=5969 Irregular=0
+CD X0= -0.924411234287, X1= 1.12830027585, Y0= 0.144336252, Y1= 2.38539188417, Z0= -2.06112313092, Z1= 6.85362475465
+Working in No GDBLight mode
+Working in No GDBLight mode
+Read cfld took 0.19 sec.
+Collecting Reference Parameters... OK
+Read fld took 0.61 sec.
+
+]]>
+<Block caption="simple" number="8">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+</Block>
+<Block caption="simple" number="9">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="10">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="11">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+<Block caption="simple" number="12">
+<![CDATA[
+Windows 7 Service Pack 1 (Version 6.1.7601)
+GenuineIntel, Stepping ID = 2, Model = 5, Family = 6, Extended model = 2, MMX SSE SSE2 Hyper-Threading Technology SSE3
+CPU Brand String: Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz
+Cache Line Size = 64, L2 Associativity = 6, Cache Size = 256K
+Number of cores: 4, Processor type: 8664, Active processor mask: 15, Page size: 4096 bites
+std::thread::hardware_concurrency = 4
+OpenMP enabled (spec=200203). max_threads = 4, num_procs = 4, num_threads = 4.
+
+]]>
+</Block>
+<Block caption="Vwr::LoadFlowField" number="1">
+<![CDATA[
+EXTERNAL=0   LAMTURB=1   CHT=0
+IT=6   NT=2   NZ=1
+U_DIM_EXT_MAX=8   US_DIM=0
+-----------------------------------------------------------------------
+Allocating meshes:
+	CPU count: 4
+	MESH 0:
+		Sub-meshes count: 4
+-----------------------------------------------------------------------
+----------------------------------------------------------
+BCF --> BCF.GEOMSUBDOM (bridge arrays) (cpu_num=4):
+MESH (0):
+	Fluid Subdom Constructor: 1 subdom(s).
+	Solid Subdom Constructor: 34 subdom(s).
+	Net Asm Subdom Constructor: 0 subdom(s).
+	GEOMSUBDOM (0): gi=0 fluid av=73716 cv=73470 fa=216897 fw=24873 V=4.087118e+001
+	GEOMSUBDOM (1): gi=1 solid av=6 cv=6 fa=7 fw=13 V=1.593901e-006
+	GEOMSUBDOM (2): gi=1 solid av=2150 cv=2150 fa=5340 fw=4695 V=6.564063e-002
+	GEOMSUBDOM (3): gi=1 solid av=6 cv=6 fa=7 fw=23 V=1.791936e-005
+	GEOMSUBDOM (4): gi=1 solid av=6 cv=6 fa=7 fw=28 V=1.875048e-006
+	GEOMSUBDOM (5): gi=1 solid av=6 cv=6 fa=7 fw=64 V=2.068098e-006
+	GEOMSUBDOM (6): gi=1 solid av=6 cv=6 fa=7 fw=38 V=6.219489e-007
+	GEOMSUBDOM (7): gi=1 solid av=4 cv=4 fa=4 fw=29 V=1.649411e-007
+	GEOMSUBDOM (8): gi=1 solid av=4 cv=4 fa=4 fw=30 V=6.002074e-007
+	GEOMSUBDOM (9): gi=1 solid av=4 cv=4 fa=4 fw=27 V=4.435964e-007
+	GEOMSUBDOM (10): gi=1 solid av=4 cv=4 fa=4 fw=19 V=4.877699e-008
+	GEOMSUBDOM (11): gi=1 solid av=4 cv=4 fa=4 fw=24 V=6.554172e-008
+	GEOMSUBDOM (12): gi=1 solid av=141 cv=141 fa=286 fw=656 V=1.305631e-003
+	GEOMSUBDOM (13): gi=1 solid av=141 cv=141 fa=286 fw=638 V=1.309678e-003
+	GEOMSUBDOM (14): gi=1 solid av=507 cv=507 fa=1021 fw=1386 V=3.481080e-003
+	GEOMSUBDOM (15): gi=1 solid av=32 cv=32 fa=60 fw=115 V=1.087861e-004
+	GEOMSUBDOM (16): gi=1 solid av=32 cv=32 fa=60 fw=108 V=1.083888e-004
+	GEOMSUBDOM (17): gi=1 solid av=123 cv=123 fa=224 fw=559 V=5.401956e-004
+	GEOMSUBDOM (18): gi=1 solid av=1996 cv=1996 fa=5069 fw=4164 V=6.496021e-002
+	GEOMSUBDOM (19): gi=1 solid av=4 cv=4 fa=4 fw=6 V=3.685258e-014
+	GEOMSUBDOM (20): gi=1 solid av=4 cv=4 fa=4 fw=49 V=4.090679e-007
+	GEOMSUBDOM (21): gi=1 solid av=4 cv=4 fa=4 fw=12 V=6.418865e-015
+	GEOMSUBDOM (22): gi=1 solid av=8 cv=8 fa=10 fw=42 V=5.546898e-007
+	GEOMSUBDOM (23): gi=1 solid av=6 cv=6 fa=7 fw=84 V=2.343043e-006
+	GEOMSUBDOM (24): gi=1 solid av=4 cv=4 fa=4 fw=32 V=6.602176e-008
+	GEOMSUBDOM (25): gi=1 solid av=4 cv=4 fa=4 fw=27 V=4.665893e-007
+	GEOMSUBDOM (26): gi=1 solid av=36 cv=36 fa=53 fw=61 V=4.234590e-006
+	GEOMSUBDOM (27): gi=1 solid av=152 cv=152 fa=296 fw=689 V=1.301116e-003
+	GEOMSUBDOM (28): gi=1 solid av=6 cv=6 fa=7 fw=6 V=3.428994e-006
+	GEOMSUBDOM (29): gi=1 solid av=6 cv=6 fa=7 fw=6 V=3.428994e-006
+	GEOMSUBDOM (30): gi=1 solid av=6 cv=6 fa=7 fw=6 V=3.503013e-006
+	GEOMSUBDOM (31): gi=1 solid av=6 cv=6 fa=7 fw=11 V=2.422497e-006
+	GEOMSUBDOM (32): gi=1 solid av=4 cv=4 fa=4 fw=5 V=1.008381e-013
+	GEOMSUBDOM (33): gi=1 solid av=4 cv=4 fa=4 fw=12 V=1.667733e-013
+	GEOMSUBDOM (34): gi=1 solid av=4 cv=4 fa=4 fw=13 V=5.935484e-007
+	Setting nb of w-faces...OK.
+
+MESH (0) checking:
+	GEOMSUBDOM (0):fa_s=1398.5899412757776000 fw_s=90.6435912533625300 fw_nb=243894
+	GEOMSUBDOM (1):fa_s=0.0008081248723473 fw_s=0.0020799470675800 fw_nb=70
+	GEOMSUBDOM (2):fa_s=4.8209729124127287 fw_s=1.7856967256461354 fw_nb=53950
+	GEOMSUBDOM (3):fa_s=0.0021574559433060 fw_s=0.0049698264563756 fw_nb=194
+	GEOMSUBDOM (4):fa_s=0.0003057014325953 fw_s=0.0016649623367225 fw_nb=270
+	GEOMSUBDOM (5):fa_s=0.0003303361171418 fw_s=0.0020925432634414 fw_nb=566
+	GEOMSUBDOM (6):fa_s=0.0001591898429357 fw_s=0.0008449494530134 fw_nb=426
+	GEOMSUBDOM (7):fa_s=0.0001344847534066 fw_s=0.0003552285727788 fw_nb=390
+	GEOMSUBDOM (8):fa_s=0.0001218254619393 fw_s=0.0006983116653077 fw_nb=302
+	GEOMSUBDOM (9):fa_s=0.0001328527938000 fw_s=0.0005774117400366 fw_nb=284
+	GEOMSUBDOM (10):fa_s=0.0000407546413459 fw_s=0.0001264015725236 fw_nb=170
+	GEOMSUBDOM (11):fa_s=0.0000646365465039 fw_s=0.0001673261001893 fw_nb=294
+	GEOMSUBDOM (12):fa_s=0.1153827480111772 fw_s=0.1600211752104357 fw_nb=7428
+	GEOMSUBDOM (13):fa_s=0.1153968832783653 fw_s=0.1597117907224060 fw_nb=6876
+	GEOMSUBDOM (14):fa_s=0.3714089443765267 fw_s=0.7509218471815949 fw_nb=14376
+	GEOMSUBDOM (15):fa_s=0.0158562813329161 fw_s=0.0226960880126345 fw_nb=1288
+	GEOMSUBDOM (16):fa_s=0.0158473812784395 fw_s=0.0223343707944212 fw_nb=1198
+	GEOMSUBDOM (17):fa_s=0.0669405912034111 fw_s=0.0908293999762534 fw_nb=8030
+	GEOMSUBDOM (18):fa_s=4.7890767670391021 fw_s=1.7028400449356651 fw_nb=47032
+	GEOMSUBDOM (19):fa_s=0.0000000405367661 fw_s=0.0000000573276904 fw_nb=26
+	GEOMSUBDOM (20):fa_s=0.0000854453054349 fw_s=0.0005895221698737 fw_nb=428
+	GEOMSUBDOM (21):fa_s=0.0000000101341915 fw_s=0.0000000151777515 fw_nb=96
+	GEOMSUBDOM (22):fa_s=0.0002909220338307 fw_s=0.0010342993160683 fw_nb=432
+	GEOMSUBDOM (23):fa_s=0.0003621921615070 fw_s=0.0020695299280746 fw_nb=792
+	GEOMSUBDOM (24):fa_s=0.0001113858711387 fw_s=0.0002696427751893 fw_nb=418
+	GEOMSUBDOM (25):fa_s=0.0001157942605458 fw_s=0.0005871208927160 fw_nb=284
+	GEOMSUBDOM (26):fa_s=0.0050690842187235 fw_s=0.0091696481151939 fw_nb=406
+	GEOMSUBDOM (27):fa_s=0.1171486212809302 fw_s=0.1589507121605676 fw_nb=7900
+	GEOMSUBDOM (28):fa_s=0.0016139111077955 fw_s=0.0024800143622091 fw_nb=22
+	GEOMSUBDOM (29):fa_s=0.0016139111077955 fw_s=0.0024800143622091 fw_nb=22
+	GEOMSUBDOM (30):fa_s=0.0016239936727954 fw_s=0.0024902771908669 fw_nb=22
+	GEOMSUBDOM (31):fa_s=0.0012715611605937 fw_s=0.0020990704140659 fw_nb=74
+	GEOMSUBDOM (32):fa_s=0.0000001070423981 fw_s=0.0000001513808718 fw_nb=20
+	GEOMSUBDOM (33):fa_s=0.0000000142520421 fw_s=0.0000000307096533 fw_nb=96
+	GEOMSUBDOM (34):fa_s=0.0001762032597568 fw_s=0.0004836814298765 fw_nb=104
+MESH (0) checking: OK.
+----------------------------------------------------------
+Read cpt took 2.45 sec.
+
+===ThermodynamicsHolder:===
+Subdom 0 Ideal gas thermodynamics
+	substance 0 type=fwGas, guid=2B966F4A9A9F11D4A50048A0E8000000, name=Air
+===ThermodynamicsHolder:===
+MESH::Bricks: Total=74235 Gas=69056 Solid=743 Partial=4436 Irregular=0
+CD X0= -0.924411234287, X1= 1.12830027585, Y0= 0.144336252, Y1= 2.38539188417, Z0= -2.06112313092, Z1= 6.85362475465
+Working in No GDBLight mode
+Working in No GDBLight mode
+Read cfld took 0.45 sec.
+Collecting Reference Parameters... OK
+Read fld took 0.51 sec.
+
+]]>
+<Block caption="simple" number="13">
+<![CDATA[
+87 parameter(s) in list of scalar parameters
+4 parameter(s) in list of vector parameters
+
+]]>
+</Block>
+</Block>

@@ -8,7 +8,7 @@
                 Memory:   3893 MB / 8388607 MB
                 Operating system:   Windows 7 Service Pack 1 (Version 6.1.7601)
                 CAD version:   SOLIDWORKS 2017 SP4.1
-                CPU speed:   2266 (1994) MHz
+                CPU speed:   2266 MHz
 
     General Info
                 Model:   Assembly_simple.SLDASM
@@ -44,12 +44,12 @@
 
         Basic Mesh Dimensions
                 Number of cells in X:   24
-                Number of cells in Y:   29
-                Number of cells in Z:   98
+                Number of cells in Y:   28
+                Number of cells in Z:   94
 
         Number Of Cells
-                Cells:   89393
-                Fluid cells:   89393
+                Cells:   73716
+                Fluid cells:   73716
                 Irregular cells:   0
                 Trimmed cells:   0
                 Maximum refinement level:   1
@@ -73,21 +73,21 @@
 
     Goals
                 
-                Name             	Unit   	Value    	Progress   	Criteria       	Delta           	Use in convergence 
-                GG Force (X) 1   	N      	0.922    	100        	0.0503123961   	0.00797020092   	On                 
-                GG Force (Z) 1   	N      	34.274   	100        	4.39968902     	0.00197410567   	On                 
+                Name             	Unit   	Value    	Progress   	Criteria      	Delta          	Use in convergence 
+                GG Force (X) 1   	N      	0.270    	100        	0.115825677   	0.0151522038   	On                 
+                GG Force (Z) 1   	N      	15.746   	100        	1.58316411    	0.0177829858   	On                 
 
     General Info
-                Iterations:   358
-                CPU time:   2509 s
+                Iterations:   337
+                CPU time:   1747 s
 
         Log
-                Mesh generation started	0:   15:02:41 , Dec 25
-                Mesh generation normally finished	0:   15:03:28 , Dec 25
-                Preparing data for calculation	0:   15:03:29 , Dec 25
-                Calculation started	0:   15:03:40 , Dec 25
-                Calculation has converged since the following criteria are satisfied:	357:   15:45:21 , Dec 25
-                    Goals are converged	357:   
-                    Max. iteration is reached	357:   
-                    Max. travel is reached	357:   
-                Calculation finished	358:   15:45:38 , Dec 25
+                Mesh generation started	0:   00:47:13 , Dec 27
+                Mesh generation normally finished	0:   00:48:00 , Dec 27
+                Preparing data for calculation	0:   00:48:01 , Dec 27
+                Calculation started	0:   00:48:11 , Dec 27
+                Calculation has converged since the following criteria are satisfied:	336:   01:17:12 , Dec 27
+                    Goals are converged	336:   
+                    Max. iteration is reached	336:   
+                    Max. travel is reached	336:   
+                Calculation finished	337:   01:17:32 , Dec 27
