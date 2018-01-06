@@ -26,7 +26,9 @@ It is clear that predicted force $F$, and power $P$ calculated by $P = F v$ is l
  curved roof & 19.1 \\
  curved roof and sidefenders & 18.5 \\
  covered front & 34.3 \\
- covered front and sidefenders & 30.6 \\ \hline
+ covered front and sidefenders & 30.6 \\
+ curved front to ground & 72.1 \\  
+ curved front to ground with plate & 61.2 \\ \hline
 \end{tabular}
 \caption{Drag force for wind speed of 10m/s, for different roof shapes}
 \end{table}
@@ -153,6 +155,16 @@ It is clear that predicted force $F$, and power $P$ calculated by $P = F v$ is l
 \begin{figure}[ht]
 \includegraphics[width=\textwidth]{gm_5_rf_7_v10_roof2_sidefender.png}
 \caption{$v = 10 m/s$, global initial mesh = 5. Adding sidefenders reduces drag from 34N to 30N.}
+\end{figure}
+
+\begin{figure}[ht]
+\includegraphics[width=\textwidth]{gm_5_rf_7_v10_roof3_v2.png}
+\caption{$v = 10 m/s$, global initial mesh = 5. Drag is 72.1N.}
+\end{figure}
+
+\begin{figure}[ht]
+\includegraphics[width=\textwidth]{gm_5_rf_7_v10_roof3_v3.png}
+\caption{$v = 10 m/s$, global initial mesh = 5. Drag reduces from 72.1N to 61.2N when adding bottom plate.}
 \end{figure}
 
 \end{document}
