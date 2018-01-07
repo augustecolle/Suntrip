@@ -31,5 +31,18 @@ Orders come in packs of 150 cells
 Price for 300 cells: 756.0 dollar
 Price for 1200 tabs: 84.0 dollar
 
+Solar cells
+------------
+
+12.5 cm x 12.5 cm
+550 Wp / 3.41 W = 161 cellen.
+161 x (12.5 cm)^2 = 2.515625 m^2
+
+162 cellen
+-----------
+12.5 cm x  6 = 75.0 cm ->  80 cm
+12.5 cm x 27 =337.5 cm -> 340 cm
+--------------------------------
+             = 2.53125 m^2 -> 2.72 m^2 
 
 
