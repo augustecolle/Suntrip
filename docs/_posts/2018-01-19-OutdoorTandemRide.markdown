@@ -2,6 +2,7 @@
 layout: post
 title: "Outdoor tandem ride"
 date: 2018-01-19
+background: "/img/WhatsApp Image 2018-01-19 at 17.15.46.jpeg"
 ---
 
 Finally the sun has decided to come out again.  Although still a bit chilly we
@@ -18,6 +19,8 @@ we passed Deinze.
 Just as the sun was setting we rolled back into Ghent.
 
 
-<img src="{{ site.baseurl }}/docs/img/WhatsApp Image 2018-01-19 at 17.15.46.jpeg">
-<img src="{{ site.baseurl }}/docs/img/WhatsApp Image 2018-01-19 at 17.15.50.jpeg">
-<img src="{{ site.baseurl }}/docs/img/WhatsApp Image 2018-01-19 at 17.15.58.jpeg">
+<img src="{{ site.baseurl }}/img/WhatsApp Image 2018-01-19 at 17.15.46.jpeg" style="width:100%; padding: 10px 0px;">
+<img src="{{ site.baseurl }}/img/WhatsApp Image 2018-01-19 at 17.15.50.jpeg" style="width:100%; padding: 10px 0px;">
+<img src="{{ site.baseurl }}/img/WhatsApp Image 2018-01-19 at 17.15.58.jpeg" style="width:100%; padding: 10px 0px;">
+
+<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1364739480/embed/960486c0d8b628c083841210d7c7b6ea5f8cc4b0'></iframe>
