@@ -35,6 +35,15 @@ Sum of indiv. segments:
       Bicycling touring seems ok on section between Shymkent and Almaty, relatively "popular"
       No information on the other part...
       *TODO* Check if this is shorter than norther route (Graphhopper).
+      
+      [Road conditions](https://caravanistan.com/transport/driving/kazakhstan/)
+      Overall conclusion, looks good for the most part for our route!
+        - Saratov (RUS) - Urask: degraded road surface (potholes)
+        - Uralsk (Oran) - Aktobe : new tarmac (2015)
+        - Aqtobe - Aralsk via E38: Excellent quality tarmac. From Karabutak to Aralsk there are now at least 3 petrol stations operating between those towns. One after 112km, one near Irghiz (around 190km after Karabutak), and one at 380km.
+        - Shymkent – Turkestan – Kyzylorda – Aralsk – Aqtobe: New road (2014).  Excellent quality tarmac.
+        - Shymkent – Taraz – Shu – Almaty: New road (2014).
+        - Saryozek – Altyn Emel – Khorgos – Urumqi: Decent.
 
 - [Kiev-Krakow](https://www.bikemap.net/en/route/3290130-kiev-krakow-927km-1680hm/#/z11/49.9887595,20.1811981/terrain)
 - [Shanghai - Kazachstan](https://www.bikemap.net/en/route/818839-shanghai-to-kazakhstan/#/z6/41.1124688,101.3378906/google_roadmap)
