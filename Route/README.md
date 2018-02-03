@@ -46,6 +46,12 @@ Sum of indiv. segments:
         - Saryozek – Altyn Emel – Khorgos – Urumqi: Decent.
 
 - [Kiev-Krakow](https://www.bikemap.net/en/route/3290130-kiev-krakow-927km-1680hm/#/z11/49.9887595,20.1811981/terrain)
+  From Krakow east, mainly along the national road parallel to the E40. The section between Lancut en Pryzeworst seems to be 2 lane road with no shoulder so routed along smaller roads for that small part.
+  
+  In Ukraine it seems people cycle on the E40 highway! Strava shows activity on the road and I spotted some crazies on [google maps](https://www.google.be/maps/@50.0385691,25.1370347,3a,75y,14.35h,86.64t/data=!3m6!1e1!3m4!1sTIjiASKU5MOwoemVcqnwdA!2e0!7i13312!8i6656?hl=en). [clip](https://www.youtube.com/watch?v=D1hZOart86w) of the E40 between L'viv and Kiev.
+  Detours seem possible put alternative roads seem very bad and full of potholes (google maps).
+  The highway in the north, E373, seems very smooth and quieter but it is a huge detour...
+  
 - [Shanghai - Kazachstan](https://www.bikemap.net/en/route/818839-shanghai-to-kazakhstan/#/z6/41.1124688,101.3378906/google_roadmap)
 
 
