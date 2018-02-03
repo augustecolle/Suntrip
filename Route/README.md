@@ -48,7 +48,7 @@ Sum of indiv. segments:
 - [Kiev-Krakow](https://www.bikemap.net/en/route/3290130-kiev-krakow-927km-1680hm/#/z11/49.9887595,20.1811981/terrain)
   From Krakow east, mainly along the national road parallel to the E40. The section between Lancut en Pryzeworst seems to be 2 lane road with no shoulder so routed along smaller roads for that small part.
   
-  In Ukraine it seems people cycle on the E40 highway! Strava shows activity on the road and I spotted some crazies on [google maps](https://www.google.be/maps/@50.0385691,25.1370347,3a,75y,14.35h,86.64t/data=!3m6!1e1!3m4!1sTIjiASKU5MOwoemVcqnwdA!2e0!7i13312!8i6656?hl=en). [clip](https://www.youtube.com/watch?v=D1hZOart86w) of the E40 between L'viv and Kiev.
+  In Ukraine it seems people cycle on the E40 highway! Strava shows activity on the road and I spotted some on [google maps](https://www.google.be/maps/@50.0385691,25.1370347,3a,75y,14.35h,86.64t/data=!3m6!1e1!3m4!1sTIjiASKU5MOwoemVcqnwdA!2e0!7i13312!8i6656?hl=en), look at this [badass](https://www.google.be/maps/@50.0559231,25.1477143,3a,75y,146.42h,68.25t/data=!3m6!1e1!3m4!1sXR9xV-b-WOuMpLzcBXRo7Q!2e0!7i13312!8i6656?hl=en). After extensive google street view inspection it seems that [locals](https://www.google.be/maps/@50.1118557,25.1962285,3a,75y,167.17h,62.94t/data=!3m6!1e1!3m4!1s7tTR2epj1cqReqeXDy54yg!2e0!7i13312!8i6656?hl=en) cycle on the E40 so this is probably allowed. [clip](https://www.youtube.com/watch?v=D1hZOart86w) of the E40 between L'viv and Kiev.
   Detours seem possible put alternative roads seem very bad and full of potholes (google maps).
   The highway in the north, E373, seems very smooth and quieter but it is a huge detour...
   
