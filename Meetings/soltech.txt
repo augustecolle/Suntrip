@@ -1,0 +1,53 @@
+Hoekafhankelijkheid
+
+Breedte*hoogte = 92.5 x 265
+
+
+Overleg:
+--------
+
+Witruimte tussen cellen 2mm - max. 5mm meer opbrengst 2 a 3%
+
+Plaatdikte te kiezen ifv sterkte/gewicht
+
+Electronica minimale spanning voor te werken bepalend voor aantel seriecellen
+
+Temperatuurscorrectie in MPPT voor batterijen laden?!
+
+Cellen zelf solderen vs laten doen --> 200 euro
+
+Solderen op ... 320? Vragen aan de fabrikant (SunPower)
+
+Bypass diodes -> meer risicos bij laminatieproces want kabels moeten naar buiten gebracht worden
+
+Misschien beter voor de hoeken, vooraan 6 -> 7 7 ... 7 -> 6 achteraan dan kunnen we hoeken afronden
+
+Drie modules, 7 8 8 cellen op 7 cellen (breedte paneel).
+-> 56 cellen 56 cellen en 49 cellen
+
+3.41 Wp per cel
+.612 Vp (check want enkel in datasheet waar onze cellen niet in staan)
+5.8 Ap (check want enkel in datasheet waar onze cellen niet in staan)
+
+
+Op welke termijn? 1 week als alle materialen zijn aangeleverd
+
+Schokken zorgen voor micro barstjes, 2 lagen EVA op de back voor absorptie schokken. Eventueel schokdempers? Stefan zegt niet echt nodig, lijkt hem technisch moeilijk.
+
+Zij kijken ook voor bestelling wit geanodiseerde platen.
+
+Lijmen van alu plaat op structuur gevende plaat via dubbelzijdige foam, tec7, ... Ook voor vibratie absorptie
+
+Ordegrootte prijs: 500 -> 900 euro als we zelf solderen, +200 als we niet zelf solderen
+
+PVGIS -> maand per maand gemiddeldes zon
+
+Offerte met cellen en zonder cellen aangevraagd.
+
+
+To do:
+------
+
+Doorsturen datasheets MGElektronics
+
+(Eens opzoeken voor wat een wit geanodiseerde plaat gaat)
