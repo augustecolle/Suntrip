@@ -23,12 +23,17 @@ layout: default
     </div>
   </header>
 
+
+
   <div class="container">
     <div class="row">
+        
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
-
+        
+        <h1 style="color: #184d56;"> Most recent posts: </h1>
+        <hr>
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
 
@@ -59,7 +64,8 @@ layout: default
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-
+        
       </div>
+      
     </div>
   </div>

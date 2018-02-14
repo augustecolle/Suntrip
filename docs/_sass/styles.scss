@@ -1,2 +1,17 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+
+// Define our own styles here
+
+ul.nav-stacked {
+    background: $info;
+}
+
+.post-pinned {
+  padding: 0px;
+  background: $light;
+  border-top: 5px solid $primary;
+  border-bottom: 5px solid $primary;
+  
+}
