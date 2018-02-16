@@ -33,6 +33,7 @@ Ghent.  Wet and tired we were happy to finally be home again around 10 PM.
 
 <img src="{{ site.baseurl }}/img/WhatsApp Image 2018-01-27 at 11.05.12.jpeg" style="width:100%; padding: 10px 0px;">
 <img src="{{ site.baseurl }}/img/WhatsApp Image 2018-01-27 at 11.05.15.jpeg" style="width:100%; padding: 10px 0px;">
+<img src="{{ site.baseurl }}/img/suntrip_meeting_raf.jpg" style="width:100%; padding: 10px 0px;">
 
 <iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1377152431/embed/fa3d2d04b7d1c6246d4871ef8aabd0d5e6ac4265'></iframe>
 
