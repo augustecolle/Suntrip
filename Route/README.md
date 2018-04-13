@@ -16,9 +16,14 @@ and then, the final base camp in Chamonix.
 The start proper should take place in Chamonix on June 19 or 20
 
 ## "Official accomodation in Russia"
+  - [Kursk](http://www.gostevoi-dom-na-sutki.ru/) No campsites. Hostel with good reviews ~9 euro.
+  
   - [Belgorod](https://www.hostelkorona.com/) No campsites. A few hostels. [this](https://www.hostelkorona.com/) one has good reviews and is one of the cheaper options (~9 euros)
+  
   - [Vorozneh](http://hostvrn.ru/kemping-v-voronezhe/) Cheap hostel/camping (~4 euros). Nice website.
+  
   - [Balashov](http://turbaza-hoper.ru/domiki.html) Looks like a very nice campsite, I don't see rates for tents but for a "summer house" it is about 7 euro per person.
+  
   - [Saratov City Hostel](https://www.booking.com/searchresults.en-gb.html?aid=1288283;label=metagha-link-mapresultsBE-hotel-1930131_dev-desktop_los-1_bw-30_dow-Sunday_defdate-0_room-0_lang-en_curr-EUR_gstadt-8_rateid-0_cid-85;sid=9ed1b5c0e05c2b57c51e58a33742861a;checkin=2018-05-13;checkout=2018-05-14;city=-2996563;highlighted_hotels=1930131;hlrd=with_av;keep_landing=1;redirected=1;source=hotel&utm_campaign=BE&utm_content=los-1_bw-30_dow-Sunday_lang-en_curr-EUR_gstadt-8_rateid-0_cid-85&utm_medium=mapresults&utm_source=metagha&utm_term=hotel-1930131&room1=A,A,A,A,A,A,A,A,;) No campsites nearby. This is the cheapest hostel ~7 euro's, has only 4 reviews but 3 of them are positive.
 
 ## Route segments:
