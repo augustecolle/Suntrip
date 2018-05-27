@@ -13,3 +13,9 @@ Phaserunner
 The phaserunner looks like an evident choice, small, lightweight, state of the art, wide range of voltage and current, allows regenerative breaking, allows field weakening, ...
 
 [check it here](http://www.ebikes.ca/product-info/phaserunner.html)
+
+Fiel weakening test:
+
+ - 12 amps field weakening gives 60 degrees Centigrade controller temperature and 18 amps phase current at no load. Motor goes from 41 km/h to 45.6 km/h no load speed.
+
+
