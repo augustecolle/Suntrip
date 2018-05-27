@@ -5,3 +5,4 @@
 # ignore of SolidWorks temp files:
 ~$*
 checklist/
+checklist/**
