@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Prologue"
 date: 2018-06-18
